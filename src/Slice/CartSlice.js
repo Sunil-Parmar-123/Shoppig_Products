@@ -60,5 +60,5 @@ switch(action.type){
 createSlice({
     name: 'cart',
     initialState : [],
-    reducer : 
+    // reducer : ,
 })
